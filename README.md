@@ -1,2 +1,1 @@
-# PORTIFOLIO
-my codes from Portifolio
+# PORTIFOLIOPessoal projects and other things
